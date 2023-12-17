@@ -1,14 +1,16 @@
 # Knowledge_Copilot
 
+README in English | [中文文档](README_CN.md)
+
 ![输入图片描述](README_md_files/41aa1bb0-9cf2-11ee-820e-edd2ca013f0b.jpeg?v=1&type=image)
 
 Knowledge Copilot, your personal knowledge management assistant, automatically categorizes and integrates new-found exciting content into your Notion knowledge base.
 
 ## Key Features
 - Powered by LLM(Currently GPT-4 API)
--   Automated crawler
--   Video summary
--   Automated archiving into database
+- Automated crawler
+- Video summary
+- Automated archiving into database
 
 ## Our Road Map
 
